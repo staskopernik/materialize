@@ -1,2 +1,2 @@
-# materialize
-Materialize web site
+# Materialize
+The site was created using the framework Materialize.
