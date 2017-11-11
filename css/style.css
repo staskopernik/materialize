@@ -3,5 +3,9 @@ nav{
 }
 
 body{
-    height:1000px;
+    height: 3000px;
+}
+
+.parallax-conteiner{
+    height: 500px;
 }
