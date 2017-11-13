@@ -1,2 +1,2 @@
-# materialize
+# Materialize.css
 Materialize web site
