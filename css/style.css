@@ -1,11 +1,7 @@
-nav{
-    background:#803c42;
+nav {
+    background: #803c42;
 }
 
-body{
-    height: 3000px;
-}
-
-.parallax-conteiner{
+.parallax-conteiner {
     height: 500px;
 }
