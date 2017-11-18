@@ -5,3 +5,22 @@ nav {
 .parallax-conteiner {
     height: 500px;
 }
+
+body {
+    display: flex;
+    flex-direction: colum;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.page-footer footer-co {
+    background-color: #803d43;
+}
+
+.page-footer .footer-copyright {
+    background-color: #803d43;
+
+}
