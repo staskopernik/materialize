@@ -6,12 +6,6 @@ nav {
     height: 500px;
 }
 
-body {
-    display: flex;
-    flex-direction: colum;
-    min-height: 100vh;
-}
-
 .page-footer {
     background-color: #803d43;
 }
